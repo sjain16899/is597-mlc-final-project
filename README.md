@@ -1,2 +1,8 @@
 # is597-mlc-final-project
-Final Project code and dataset for 'IS597 - Machine Learning and Cloud' course.
+
+Name : Samarth Jain
+NetID : sjain224
+Course : IS597 - Machine Learning and Cloud
+Guide : Prof. Kevin Trainor
+
+Final Project code, html file and dataset.
